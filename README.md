@@ -11,3 +11,4 @@
 ## 📫 How to reach me: ...
 - Tistory (추가예정)
 - Blog (추가예정)
+- E-Mail : hjsgood9733@naver.com
