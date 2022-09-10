@@ -1,10 +1,11 @@
 ### Hi 👋
 
 ## 💻 I’m student
-- 성결대학교(재학)
+- 성결대학교 컴퓨터공학과(졸업)
 
 ## 🌱 Programming
 - C Programming
+- Javascript
 - Linux
 - DB
 
