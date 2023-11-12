@@ -8,7 +8,7 @@
 
 ## 🌱 Programming
 - C Programming
-- NodeJS
+- JavaScript
 - Linux
 - DB
 
