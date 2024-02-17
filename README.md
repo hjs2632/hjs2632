@@ -9,6 +9,7 @@
 ## 🌱 Programming
 - C Programming
 - JavaScript
+- Node.js
 - Linux
 - DB
 
